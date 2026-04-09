@@ -17,17 +17,28 @@ Medical Statistics Visualization
 
 Архитектура папок следующая:
 Data
+    
     2016
+        
         Original
+    
     2017
-        Original
+        
+        Original    
     .
+    
     .
+    
     2023
+    
         Original
+        
     2024
+    
         Original
+        
     Common
+    
 Для корректной работы необходимо:
 - создать папку с годом
 - выложить файл сводного отчета в папку Original в соответствующем году,
