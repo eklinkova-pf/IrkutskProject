@@ -31,12 +31,12 @@ Medical Statistics Visualization
 Архитектура папок следующая:
 Data
     
-   2016
-      └── Original
-   2017
-      └── Original
-   2018
-      └── Original  
+      2016
+         └── Original
+      2017
+         └── Original
+      2018
+         └── Original  
     .
     
     .
