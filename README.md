@@ -29,26 +29,42 @@ Medical Statistics Visualization
 - 2800.ipynb - выгружает данные из Формы 33 (excel) из Таблицы 2800 в длинный csv
 
 Архитектура папок следующая:
+
 IrkutskProject
+
    ├──Data
+   
    │     ├── 2016
+   
    │     │     └── Original
+   
    │     ├── 2017
+   
    │     │     └── Original
+   
    │     ├── 2018
+   
    │     │     └── Original
+   
    │     ├── 2019
+   
    │     │     └── Original
+   
    │     ├── 2020
    │     │     └── Original
+   
    │     ├── 2021
    │     │     └── Original
+   
    │     ├── 2022
    │     │     └── Original
+   
    │     ├── 2023
    │     │     └── Original
+   
    │     └── 2024
    │        └── Original  
+   
    └── Common
     
 Для корректной работы необходимо:
