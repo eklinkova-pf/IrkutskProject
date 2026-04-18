@@ -34,41 +34,41 @@ IrkutskProject
 
    ├──Data
    
-   │     ├── 2016
+   │           ├── 2016
    
-   │     │     └── Original
+   │           │     └── Original
    
-   │     ├── 2017
+   │           ├── 2017
    
-   │     │     └── Original
+   │           │     └── Original
    
-   │     ├── 2018
+   │           ├── 2018
    
-   │     │     └── Original
+   │           │     └── Original
    
-   │     ├── 2019
+   │           ├── 2019
    
-   │     │     └── Original
+   │           │     └── Original
    
-   │     ├── 2020
+   │           ├── 2020
    
-   │     │     └── Original
+   │           │     └── Original
    
-   │     ├── 2021
+   │           ├── 2021
    
-   │     │     └── Original
+   │           │     └── Original
    
-   │     ├── 2022
+   │           ├── 2022
    
-   │     │     └── Original
+   │           │     └── Original
    
-   │     ├── 2023
+   │           ├── 2023
    
-   │     │     └── Original
+   │           │     └── Original
    
-   │     └── 2024
+   │           └── 2024
    
-   │        └── Original  
+   │                 └── Original  
    
    └── Common
     
